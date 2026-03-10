@@ -1,10 +1,10 @@
 # Exercícios C++ - Lógica de Programação
 
-Um repositório com exercícios práticos de C++ focados em conceitos fundamentais de lógica de programação para uso acadêmico.
+Um repositório com exercícios práticos de C++ focados em conceitos fundamentais de lógica de programação e algoritimos.
 
 ## 📚 Sobre o Projeto
 
-Este projeto contém uma coleção de exercícios resolvidos em C++ que cobrem conceitos básicos de lógica de programação. Os exercícios são ideais para estudantes que estão aprendendo os fundamentos da programação.
+Este projeto contém uma coleção de exercícios resolvidos em C++ que cobrem conceitos básicos de lógica de programação.
 
 ## 📂 Estrutura do Projeto
 
@@ -12,7 +12,7 @@ Os exercícios estão organizados em arquivos individuais:
 
 - **Troca de valores.cpp** - Programa para trocar o valor de duas variáveis
 - **calcularMedia.cpp** - Cálculo de média aritmética
-- **cigarrosFumados.cpp** - Cálculo relacionado a cigarros fumados
+- **cigarrosFumados.cpp** - Cálculo relacionado ao valor gasto de um fumante
 - **circunferencia.cpp** - Cálculo de circunferência
 - **salarioProfessor.cpp** - Cálculo de salário de professor
 
@@ -58,10 +58,6 @@ g++ -o nome_do_programa arquivo.cpp
 ## 📝 Licença
 
 Este projeto está disponível para uso educacional.
-
-## 📧 Contato
-
-Se tiver dúvidas ou sugestões, sinta-se à vontade para abrir uma issue neste repositório.
 
 ---
 
