@@ -15,6 +15,7 @@ Os exercícios estão organizados em arquivos individuais:
 - **cigarrosFumados.cpp** - Cálculo relacionado ao valor gasto de um fumante
 - **circunferencia.cpp** - Cálculo de circunferência
 - **salarioProfessor.cpp** - Cálculo de salário de professor
+- **quiz.cpp** - Quiz sobre dinossauros
 
 ## 🚀 Como Usar
 
